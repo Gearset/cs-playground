@@ -8,4 +8,3 @@ Jaime
 Maria
 Tom
 Joe
-Meg
