@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>pie</fullName>
+        <default>false</default>
+        <label>pie</label>
+    </customValue>
+    <customValue>
+        <fullName>salad</fullName>
+        <default>false</default>
+        <label>salad</label>
+    </customValue>
+    <masterLabel>Favourite food</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
