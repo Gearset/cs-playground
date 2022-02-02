@@ -21,9 +21,9 @@
                 <label>salad</label>
             </value>
             <value>
-                <fullName>chocolate</fullName>
+                <fullName>Chocolate</fullName>
                 <default>false</default>
-                <label>chocolate</label>
+                <label>Chocolate</label>
             </value>
         </valueSetDefinition>
     </valueSet>
