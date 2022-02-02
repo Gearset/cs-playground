@@ -3,7 +3,7 @@
     <fullName>Favourite_food__c</fullName>
     <externalId>false</externalId>
     <label>Favourite food</label>
-    <required>false</required>
+    <required>true</required>
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
     <valueSet>
@@ -21,7 +21,7 @@
                 <label>Salad</label>
             </value>
             <value>
-                <fullName>Chocolate</fullName>
+                <fullName>chocolate</fullName>
                 <default>false</default>
                 <label>Chocolate</label>
             </value>
