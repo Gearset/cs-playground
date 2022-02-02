@@ -20,6 +20,11 @@
                 <default>false</default>
                 <label>Salad</label>
             </value>
+            <value>
+                <fullName>Chocolate</fullName>
+                <default>false</default>
+                <label>Chocolate</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
