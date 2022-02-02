@@ -10,11 +10,6 @@
         <default>false</default>
         <label>salad</label>
     </customValue>
-      <customValue>
-        <fullName>chocolate</fullName>
-        <default>false</default>
-        <label>chocolate</label>
-    </customValue>
     <masterLabel>Favourite food</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>
