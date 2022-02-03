@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Favourite_Food__c</fullName>
+    <externalId>false</externalId>
+    <label>Favourite Food</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>pie</fullName>
+                <default>false</default>
+                <label>pie</label>
+            </value>
+            <value>
+                <fullName>salad</fullName>
+                <default>false</default>
+                <label>salad</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
