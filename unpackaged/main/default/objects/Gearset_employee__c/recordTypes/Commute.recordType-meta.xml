@@ -5,21 +5,7 @@
     <label>Commute</label>
     <picklistValues>
         <picklist>Test__c</picklist>
-        <values>
-            <fullName>Chocolate</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Dumpling</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Pie</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Salad</fullName>
-            <default>false</default>
-        </values>
+        
+        
     </picklistValues>
 </RecordType>
