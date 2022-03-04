@@ -6,11 +6,19 @@
     <picklistValues>
         <picklist>Test__c</picklist>
         <values>
-            <fullName>A</fullName>
+            <fullName>Chocolate</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>C</fullName>
+            <fullName>Dumpling</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pie</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Salad</fullName>
             <default>false</default>
         </values>
     </picklistValues>
