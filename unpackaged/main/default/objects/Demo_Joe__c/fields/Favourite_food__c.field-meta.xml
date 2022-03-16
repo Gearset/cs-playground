@@ -11,9 +11,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>pizza</fullName>
+                <fullName>orange</fullName>
                 <default>false</default>
-                <label>pizza</label>
+                <label>orange</label>
             </value>
             <value>
                 <fullName>salad</fullName>
