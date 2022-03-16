@@ -17,9 +17,9 @@
                 <label>Fish fingers</label>
             </value>
             <value>
-                <fullName>chocolate</fullName>
+                <fullName>beans</fullName>
                 <default>false</default>
-                <label>chocolate</label>
+                <label>beans</label>
             </value>
             <value>
                 <fullName>Humble Pie</fullName>
